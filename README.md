@@ -7,7 +7,6 @@ We use various techniques to train and evaluate models with imbalanced classes.
 
 
 # Risk Classificaton - Supervised Machile Learning
-This application uses a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 This application pedicts risk through Supervised Learning's imbalanced-learn library. 
 It uses a dataset of historical lending activiy from a peer-to-peer lending services company to build a model that can identify the credit worthiness of borrowers. 
 
